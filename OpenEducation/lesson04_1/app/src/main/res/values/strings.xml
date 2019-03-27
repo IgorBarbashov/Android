@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lesson04_1</string>
+    <string name="call">Call</string>
+    <string name="map">Map</string>
+    <string name="web">ViewWebPages</string>
+    <string name="mail">Send Mail</string>
+</resources>

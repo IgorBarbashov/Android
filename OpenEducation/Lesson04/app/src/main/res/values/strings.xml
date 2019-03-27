@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson04</string>
+    <string name="send_text">Передай меня в новое окно</string>
+    <string name="button_send">Передать</string>
+</resources>

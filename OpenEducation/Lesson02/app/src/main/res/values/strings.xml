@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello world!</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="button">Button</string>
+    <string name="nizhny_nocgorod">Nizhny Novgorod</string>
+    <string name="button_no">No</string>
+    <string name="button_yes">Yes</string>
+
+    <string name="correct_answer">Правильный ответ</string>
+    <string name="incorrect_answer">Неправильный ответ</string>
+</resources>
